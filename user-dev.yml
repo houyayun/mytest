@@ -26,5 +26,5 @@ eureka:
     lease-expiration-duration-in-seconds: 5
 
 test:
-  name: hyy20200929
+  name: hyy20200929-1
 
